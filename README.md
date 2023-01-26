@@ -1,9 +1,1 @@
-- 👋 Hi, I’m @KarthikeyanKatkam
-- 👀 I’m interested in coding ...
-- 🌱 I’m currently competed Data Structurers and Machine Learning & looking for job...
-- 📫 How to reach me ...
-- mail :- pintkarthikeyan35@gmail.com
-<!---
-KarthikeyanKatkam/KarthikeyanKatkam is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+Video game dev hyper active.
